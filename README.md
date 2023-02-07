@@ -1,4 +1,4 @@
-# node-todo-cicd
+# CI/CD Devops Project
 - Follow the following steps
 
 ```
