@@ -1,4 +1,4 @@
-# CI/CD Devops Project- Jenkins,Github,AWS-EC2,Webhooks,Node js
+# CI/CD Devops Project- Jenkins,Github,AWS-EC2,Webhooks,Node.js
 - Follow the following steps
 
 ```
